@@ -10,3 +10,6 @@
 #
 # add
 x=a+b
+
+#subtract
+x1=a-b
